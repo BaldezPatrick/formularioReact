@@ -1,0 +1,14 @@
+main {
+    padding: 40px;
+}
+
+#texto-check {
+    color: white;
+    text-align: center;
+}
+
+.row {
+    max-width: 50%;
+    margin: 0 auto;
+    color: white;
+}

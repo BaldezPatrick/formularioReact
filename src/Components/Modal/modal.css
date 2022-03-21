@@ -1,0 +1,10 @@
+.modelo {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
